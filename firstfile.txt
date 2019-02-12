@@ -2,3 +2,7 @@ This is my first file in GIT. Let's put some color in it:
 1. Green
 2. Pink
 3. Red
+
+Let's add some more colors:
+4. Blue
+5. Yellow
